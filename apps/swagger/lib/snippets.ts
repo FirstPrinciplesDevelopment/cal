@@ -1,5 +1,4 @@
-// import * as OpenAPISnippet from "openapi-snippet";
-const OpenAPISnippet = require("openapi-snippet");
+import * as OpenAPISnippet from "openapi-snippet";
 
 export const requestSnippets = {
   generators: {
